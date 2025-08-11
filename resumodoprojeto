@@ -1,0 +1,21 @@
+O Projeto desenvolvido durante o curso introdutório de JavaScript, focado no aprendizado de conceitos básicos da linguagem.
+
+Os conteudos estudados 
+Uso do REPL no Node.js
+
+console.log para exibir valores
+
+Variáveis (const, let)
+
+Operadores aritméticos e conversão de tipos (parseInt, parseFloat)
+
+Arrays: criação, inserção e remoção de elementos
+
+Condicionais (if, else if, else) e operadores lógicos (&&, ||)
+
+Loops (while, for) e break
+
+Uso do debugger no VS Code
+
+Aprendi sobre a diferença entre valores literais e variáveis, sobre a manipulação de listas e controle de fluxo, as Aplicações de regras de negócio com condicionais
+e tambem sobre o uso dos operadores logicos e a depuração       
